@@ -1,0 +1,12 @@
+{
+  "name": "subdomain.js",
+  "repo": "ramitos/subdomain.js",
+  "description": "get the subdomain from a url",
+  "version": "0.0.1",
+  "keywords": ["url", "subdomain"],
+  "main": "src/tld.js",
+  "scripts": ["src/subdomain.js"],
+  "dependencies": {
+    "ramitos/domain.js": "*"
+  }
+}

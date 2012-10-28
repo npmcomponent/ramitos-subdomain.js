@@ -1,0 +1,6 @@
+/test/client
+.DS_Store
+node_modules
+build
+/dist/
+components
