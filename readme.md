@@ -25,7 +25,7 @@ subdomain('http://www.example.co.uk') //=> www
 with parsed url:
 
 ```js
-var subdomain = require('domain.js'),
+var subdomain = require('subdomain.js'),
     url = require('url')
 
 subdomain(url.parse('http://www.example.co.uk')) //=> www
