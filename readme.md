@@ -1,6 +1,6 @@
 # subdomain.js
 
-get the subdomain from a url
+get the subdomain from an url
 
 ## installation
 
@@ -33,11 +33,11 @@ subdomain(url.parse('http://www.example.co.uk')) //=> www
 
 ## test [![Build Status](https://secure.travis-ci.org/ramitos/subdomain.js.png)](http://travis-ci.org/ramitos/subdomain.js)
 
-    $ make test
+    $ npm test
 
 ## credits
- 
- * inspired by URI.js
+
+ * inspired by [URI.js](https://github.com/medialize/URI.js)
 
 ## license
 

@@ -2,9 +2,11 @@
   "name": "subdomain.js",
   "repo": "ramitos/subdomain.js",
   "description": "get the subdomain from a url",
-  "version": "0.0.1",
   "keywords": ["url", "subdomain"],
-  "main": "src/tld.js",
+  "twitter": "@ramitos",
+  "version": "0.0.2",
+  "license": "MIT",
+  "main": "src/subdomain.js",
   "scripts": ["src/subdomain.js"],
   "dependencies": {
     "ramitos/domain.js": "*"
