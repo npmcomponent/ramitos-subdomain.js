@@ -1,4 +1,4 @@
-var domain = require('domain.js'),
+var domain = require('ramitos-domain.js'),
     parse = require('url').parse;
 
 module.exports = function (url, protocol) {

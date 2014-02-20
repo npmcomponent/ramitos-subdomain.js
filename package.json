@@ -1,25 +1,14 @@
 {
-  "name": "subdomain.js",
-  "version": "0.0.2",
+  "name": "ramitos-subdomain.js",
   "description": "get the subdomain from a url",
-  "main": "src/subdomain.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ramitos/subdomain.js"
-  },
+  "version": "0.0.2",
   "keywords": [
     "url",
-    "domain"
+    "subdomain"
   ],
-  "author": "Sérgio Ramos <mail@sergioramos.me>",
-  "license": "MIT",
-  "devDependencies": {
-    "colors": "0.6.x"
-  },
-  "scripts": {
-    "test": "node test/server/runner"
-  },
+  "main": "src/subdomain.js",
   "dependencies": {
-    "domain.js": "0.0.x"
-  }
+    "ramitos-domain.js": "git://github.com/npmcomponent/ramitos-domain.js.git"
+  },
+  "license": "MIT"
 }
